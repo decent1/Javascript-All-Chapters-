@@ -1,0 +1,42 @@
+.image{
+    width: 100px;
+    height: 100px;
+}
+
+table{
+    text-align: center;
+    background-color: lightblue;
+}
+.btn{
+    background-color: orangered;
+}
+.sir_image{
+    width: 200px;
+    height: 200px;
+}
+
+.main{
+margin: 0 auto;
+text-align: center;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: black;
+}
+#number{
+    font-size: 100px;
+    color: #408224;
+    font-weight: 600;
+width: 100px;
+height: 90px;
+margin-bottom: 10px;
+outline: none !important;
+text-align: center;
+}
+.btnCounter{
+    background-color: green;
+}
+#modalImage{
+    width: 300px;
+    height: 300px;
+}
